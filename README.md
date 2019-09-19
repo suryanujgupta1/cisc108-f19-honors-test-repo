@@ -1,5 +1,4 @@
-# cisc108-f19-honors-test-repo
-Fork me!
-
+# Name
+Suryanuj Gupta
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+I am 18 years old, I attend the University of Delaware and I am studying Computer Science
